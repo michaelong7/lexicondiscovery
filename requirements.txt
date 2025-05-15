@@ -1,0 +1,10 @@
+torch
+datasets
+transformers
+soundfile
+tqdm
+librosa
+faiss-cpu
+editdistance
+jarowinkler
+gensim
